@@ -1,4 +1,5 @@
 import streamlit
+import pandas
 
 streamlit.title('My parents new Healthy Diner')
 
@@ -10,5 +11,4 @@ streamlit.text('🥑🍞 Avacado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-#test
 
